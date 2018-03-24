@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_a09cf815e25db104bb5dcdb6d9ef2516fdd6643f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c639870633bb97f1f30c46dec127b9180381f672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_bc8d7000cd7279adc5b6c6d06a64f3b407729c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_501b133d6d3643f7a7c95a60b5ffd7d869b841d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_2412f7028d184614fdfc6b340e05386796a08b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_be7c30efea092718ae13fff4e6b6235d74f4b3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_981680913f38fbcd035e98ac4bc52a2e074cadc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_b90c42c2c16aaba65118cac279a93e95d1667c24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.2.4_089bac7d99e62d3ef6455d3c1a26239b03310101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.51.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_5b2ed3bf4483f53de8f445cc5c72c756a077cb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_f2553ba76b1d44dd74d016d43cd5eb2640e15d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_825a7508de895dcbd92ce6d0957aa2debb4387ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c6fc77d0faae3c784dc7d9b85ee5f13018c10c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_9142b12c6ac6108006bfa811bd2fb268d1fa7ac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_dbe5d25f5cd95b4f95aca8a5c0c6db039cba90ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_19ea46448dde01ff9e3a3e312e49fb29dd577743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\ChatTest\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="634269d826283e4221210b70e7ebcb44b6e7d918">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\ChatTest-react-native-maps-unspecified_aa9a93a0e58be04fa7afac07a1dce2494fd8f608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_774abcefa2d2532f2bafc1bddd04db22a3d21616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_3aa90f007e18840e85febc41136dfa9d5f04825c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_d22095d19d7c82497d29c0dd130c6f0019e129be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_864a986a96ec00e4420190aa29a8841195e25a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.51.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.51.0_cce73ed33df05509f769b17a54c873849438a727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a5947f173d73f91f7721a6b4682fed2daa427569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7203272d2e238502270487c6001a07877b164e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_c7290fbd4c4027a74974dc4c7187a42ad3e10497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OneOne\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\OneOne\Downloads\ChatTest\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_babe6855094df06f596094c9dd3469b2f9a161c3.jar" />
+    </item>
+
+</items>
